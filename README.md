@@ -1,6 +1,9 @@
 ## Cupid's Arrow
 Submission to HackBU's 2022 Hackathon
-[![Demo Link](http://img.youtube.com/vi/tNOR0aBvnGI/0.jpg)](http://www.youtube.com/watch?v=tNOR0aBvnGI)
+Demo Video:
+
+
+[![Youtube](http://img.youtube.com/vi/tNOR0aBvnGI/0.jpg)](http://www.youtube.com/watch?v=tNOR0aBvnGI)
 
 
 
